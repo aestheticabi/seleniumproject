@@ -25,6 +25,7 @@ public static void main(String[] args) {
 		
 		String currentUrl = driver.getCurrentUrl();
 		System.out.println(currentUrl);
+		System.out.println(currentUrl);
 		
 		String title = driver.getTitle();
 		System.out.println(title);
